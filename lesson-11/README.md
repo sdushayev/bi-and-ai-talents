@@ -1,1 +1,2 @@
-NO LESSON: Just Project Demo
+# notebook
+Notebook application to practice Python OOP
