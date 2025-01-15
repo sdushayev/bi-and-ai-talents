@@ -135,3 +135,35 @@ Scrape job listings from the website https://realpython.github.io/fake-jobs and 
    - Allow filtering job listings by **location** or **company name**.
    - Write a function to export filtered results into a CSV file.
 
+
+### Task 3
+
+You are tasked with scraping laptop data from the "Laptops" section of the [Demoblaze website](https://www.demoblaze.com/) and storing the extracted information in JSON format.
+
+**Steps:**
+
+1. **Navigate to the Website:**
+   - Visit the [Demoblaze homepage](https://www.demoblaze.com/).
+   - Click on the **Laptops** section to view the list of available laptops.
+
+2. **Navigate to the Next Page:**
+   - After reaching the Laptops section, locate and click the **Next** button to navigate to the next page of laptop listings.
+
+3. **Data to Scrape:**
+   For each laptop on the page, scrape the following details:
+   - **Laptop Name**
+   - **Price**
+   - **Description**
+
+4. **Data Storage:**
+   - Save the extracted information in a structured **JSON format** with fields like:
+     ```json
+     [
+       {
+         "name": "Laptop Name",
+         "price": "Laptop Price",
+         "description": "Laptop Description"
+       },
+       ...
+     ]
+     ```
