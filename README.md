@@ -18,6 +18,20 @@
 <img src="https://m.media-amazon.com/images/I/51O53P4JHqL._SX342_SY445_.jpg" style="width:80px;height:120px; object-fit: cover;" />
 </a>
 
+<h5 style="color: #009B77;">Python for Engineering:</h5>
+
+<a href="https://drive.google.com/file/d/1y9prdoAY1MfAGWfECvAkhLfBGfvAvONY/view?usp=sharing" target="_blank">
+<img src="https://m.media-amazon.com/images/I/71yprEUlm-L._SY522_.jpg" style="width:80px;height:120px; object-fit: cover;" />
+</a>
+
+<a href="https://drive.google.com/file/d/10twtjpK7cb-ESAoHM_jCUS5S4UsRsgeQ/view?usp=sharing" target="_blank">
+<img src="https://m.media-amazon.com/images/I/61vJ9KYPgTL._SY522_.jpg" style="width:80px;height:120px; object-fit: cover;" />
+</a>
+
+<a href="https://drive.google.com/file/d/1Le4b8_AdOs7Ocit-TDQUv4j5Oqeheabx/view?usp=sharing" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJCNZBJ08jXSewoqt4uE7LyC6Vk9gED6IYA&s" style="width:80px;height:120px; object-fit: cover;" />
+</a>
+
 <h5 style="color: #009B77;">Useful Websites:</h5>
 
 - <a href="https://docs.python.org/3/"  target="_blank">Python Documentation</a>
