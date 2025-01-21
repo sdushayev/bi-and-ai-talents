@@ -30,3 +30,35 @@ $$
 $$
 
 ---
+
+
+**Image Manipulation with NumPy and PIL**
+
+Image file: `images/birds.jpg`. Your task is to perform the following image manipulations using the **NumPy** library while leveraging **PIL** for reading and saving the image.
+
+**Instructions:**
+
+1. **Flip the Image**:
+   - Flip the image horizontally and vertically (left-to-right and up-to-down).
+
+2. **Add Random Noise**:
+   - Add random noise to the image.
+
+3. **Brighten Channels**:
+   - Increase the brightness of the channels (r.g. red channel) by a fixed value (e.g., 40). Clip the values to ensure they stay within the 0 to 255 range.
+
+4. **Apply a Mask**:
+   - Mask a rectangular region in the image (e.g., a 100x100 area in the center) by setting all pixel values in this region to black (0, 0, 0).
+
+**Requirements:**
+- Use the **PIL** module onyl to:
+  - Read the image.
+  - Convert numpy array to image.
+  - Save the modified image back to a file.
+- Perform all manipulations using NumPy functions. Avoid using image editing functions from PIL or other libraries.
+
+
+**Bonus Challenge**:
+- Create a function for each manipulation (e.g., `flip_image`, `add_noise`, `brighten_channels`, `apply_mask`) to promote modularity and reusability of code.
+
+--- 
