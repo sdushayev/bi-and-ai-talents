@@ -10,9 +10,11 @@ Task 2. Create a custom function that takes two arguments: a number and a power.
 Task 3. Solve the system of equations using `numpy`:
 
 $$
+\begin{cases}
 4x + 5y + 6z = 7 \\
 3x - y + z = 4 \\
 2x + y - 2z = 5
+\end{cases}
 $$
 
 ---
@@ -20,9 +22,11 @@ $$
 Task 4. Given the electrical circuit equations below, solve for $I_1, I_2, I_3$ (currents in the branches):
 
 $$
+\begin{cases}
 10I_1 - 2I_2 + 3I_3 = 12 \\
 -2I_1 + 8I_2 - I_3 = -5 \\
 3I_1 - I_2 + 6I_3 = 15
+\end{cases}
 $$
 
 ---
