@@ -41,9 +41,9 @@
    - Write a function to classify passengers as `Child` (age < 18) or `Adult`.
    - Use `apply` to create a new column, `Age_Group`, with these values.
 
-2. **Normalize Salaries in Chinook**
-   - Load the `chinook.db` database.
-   - Extract the `employees` table and normalize the salaries (`ReportsTo` column) within each department using `apply`.
+2. **Normalize Employee Salaries**
+   - Load the `employee.csv` file.
+   - Normalize the salaries within each department.
 
 3. **Custom Function on Movies**
    - Write a function that returns `Short`, `Medium`, or `Long` based on the duration of a movie:
