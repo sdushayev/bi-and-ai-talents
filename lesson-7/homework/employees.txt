@@ -1,0 +1,4 @@
+1, 1, 1, 1
+1001, john mae, Software Engineer, 75000
+2, , , 
+101, Saloxiddin, Data Engineer, 150000
