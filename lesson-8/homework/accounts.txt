@@ -1,0 +1,7 @@
+{
+    "1000": {
+        "account_number": "1000",
+        "name": "Saloxiddin",
+        "balance": 1000.0
+    }
+}
